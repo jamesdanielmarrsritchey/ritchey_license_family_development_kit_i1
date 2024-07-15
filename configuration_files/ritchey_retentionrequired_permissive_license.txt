@@ -1,0 +1,20 @@
+Name: Ritchey Retention Required Permissive License
+Version: 6
+Content:
+<value>
+Statement - Definitions
+List Expansion - Definitions - Attribution
+Statement - Offer
+Statement - Acceptance
+Statement - Permissions
+Statement - Restrictions
+Statement - Impositions
+List Expansion - Impositions - Attribution
+List Expansion - Impositions - Copyright Notice Retention
+List Expansion - Impositions - License Text Retention
+Statement - Disclaimer
+Statement - Revocation
+Statement - Governance
+Statement - Interpretation
+Statement - Meta
+</value>

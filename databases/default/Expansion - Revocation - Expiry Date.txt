@@ -1,0 +1,1 @@
+If an expiry date is provided along with this license (e.g., "This license expires April 21, 2025."), the license is permanently revoked as of that date, in the Licensee's timezone.

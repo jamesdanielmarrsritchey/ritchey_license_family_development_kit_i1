@@ -1,0 +1,18 @@
+Name: Ritchey Non-Disclosure Permissive License
+Version: 4
+Content:
+<value>
+Statement - Definitions
+Statement - Offer
+Statement - Acceptance
+Statement - Permissions
+Statement - Restrictions
+Statement - Non-Disclosure Agreement
+Statement - Impositions
+List Expansion - Impositions - License Text Retention
+Statement - Disclaimer
+Statement - Revocation
+Statement - Governance
+Statement - Interpretation
+Statement - Meta
+</value>

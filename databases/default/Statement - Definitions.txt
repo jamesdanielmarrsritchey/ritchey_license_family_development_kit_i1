@@ -1,0 +1,9 @@
+Definitions
+
+Any definitions provided within this license overrule any external definitions.
+
+- Creative Work means material the Licensor is licensing.
+- License Author means the legal entities whom created this license.
+- Licensee means a legal entity receiving the Creative Work under this license, and accepting the license terms.
+- Licensor means the legal entities whom hold Copyright, and related rights, in the Creative Work, and are offering this license, applicable to the Creative Work.
+- Material means material which is not part of the Creative Work, or provided by the Licensor to the Licensee. 

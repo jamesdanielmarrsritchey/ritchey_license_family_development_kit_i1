@@ -1,0 +1,3 @@
+Interpretation
+
+If any portions of this license contradict, the later portion shall overrule the previous, to the extent needed to make the later portion functional.

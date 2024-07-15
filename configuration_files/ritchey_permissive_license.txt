@@ -1,0 +1,16 @@
+Name: Ritchey Permissive License
+Version: 18
+Content:
+<value>
+Statement - Definitions
+Statement - Offer
+Statement - Acceptance
+Statement - Permissions
+Statement - Restrictions
+Statement - Impositions
+Statement - Disclaimer
+Statement - Revocation
+Statement - Governance
+Statement - Interpretation
+Statement - Meta
+</value>

@@ -1,0 +1,6 @@
+Revocation
+
+This license is automatically revoked permanently from the Licensee upon breach of the license terms, with the following exceptions:
+- If the Licensee breaches the terms of this license accidentally, the license is revoked, but the Licensee may accept the license again after 30 days, if the Licensee makes all changes needed to come into compliance with the license terms.
+
+If the Licensee has already accepted the license, and later discovers any portion has been deemed unenforceable, by a court of law, in any applicable jurisdiction, the Licensee is not permitted to initiate any new attempts to exercise the license, but is not required to take any action in regards to previously initiated exercises.

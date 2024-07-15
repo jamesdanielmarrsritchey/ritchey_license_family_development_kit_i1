@@ -1,0 +1,5 @@
+To Do:
+- Add support for generating files in Markdown.
+- Add support for generating files in HTML.
+- Add support for generating files in DOCX.
+- Add support for generating files in PDF.

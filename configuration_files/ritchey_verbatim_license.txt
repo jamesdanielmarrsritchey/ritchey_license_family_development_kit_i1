@@ -1,0 +1,18 @@
+Name: Ritchey Verbatim License
+Version: 3
+Content:
+<value>
+Statement - Definitions
+Statement - Offer
+Statement - Acceptance
+Statement - Permissions
+Expansion - Permissions - Verbatim
+Statement - Restrictions
+Statement - Impositions
+List Expansion - Impositions - License Text Retention
+Statement - Disclaimer
+Statement - Revocation
+Statement - Governance
+Statement - Interpretation
+Statement - Meta
+</value>

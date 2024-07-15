@@ -1,0 +1,17 @@
+Name: Ritchey Reciprocal License
+Version: 6
+Content:
+<value>
+Statement - Definitions
+Statement - Offer
+Statement - Acceptance
+Statement - Permissions
+Expansion - Permissions - Reciprocal
+Statement - Restrictions
+Statement - Impositions
+Statement - Disclaimer
+Statement - Revocation
+Statement - Governance
+Statement - Interpretation
+Statement - Meta
+</value>

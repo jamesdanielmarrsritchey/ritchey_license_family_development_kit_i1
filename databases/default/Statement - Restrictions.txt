@@ -1,0 +1,7 @@
+Restrictions
+
+- Permissions granted don't include patent rights, with the following exceptions:
+  + If sharing the Creative Work verbatim otherwise complies with this license, it can be done even with patented portions present.
+- Permissions granted don't apply to trademarks, with the following exceptions: 
+  + If sharing the Creative Work verbatim otherwise complies with this license, it can be done even with trademarks present.
+- The Creative Work, and any portions of it, must remain solely licensed under this license.
