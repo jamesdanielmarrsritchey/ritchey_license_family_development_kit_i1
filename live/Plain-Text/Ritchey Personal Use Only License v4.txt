@@ -1,4 +1,4 @@
-Ritchey Permissive License v18
+Ritchey Personal Use Only License v4
 
 Definitions
 
@@ -9,6 +9,7 @@ Any definitions provided within this license overrule any external definitions.
 - Licensee means a legal entity receiving the Creative Work under this license, and accepting the license terms.
 - Licensor means the legal entities whom hold Copyright, and related rights, in the Creative Work, and are offering this license, applicable to the Creative Work.
 - Material means material which is not part of the Creative Work, or provided by the Licensor to the Licensee. 
+- Personal Use means storing, or using the Creative Work, in a manner which only provides the Licensee access to it, and is not commercial in nature.
 
 Offer
 
@@ -23,6 +24,8 @@ If any portion of this license is known by the Licensee to have been previously 
 Permissions
 
 The Licensee is granted royalty-free, perpetual (unless otherwise stated), non-exclusive, non-transferable permission to do anything with the Creative Work, which does not violate any part of this license.
+
+The Creative Work may only be used for Personal Use.
 
 Restrictions
 
@@ -39,7 +42,7 @@ If sharing the Creative Work is permitted by this license, when sharing, the Lic
 
 Disclaimer
 
-Regardless of any other applicable information, the Creative Work is provided as is, without any warranties, guarantees, promises, or representations. The Licensor will not be liable for loss of any kind, damage of any kind, illness, injury, death, or infringement caused by the Licensee's use of the Creative Work. Any use of the Creative Work is done at the Licensee's own risk.
+Regardless of any other applicable information, to the maximum extent permitted by applicable laws, the Creative Work is provided as is, without any warranties, guarantees, promises, or representations. The Licensor will not be liable for loss of any kind, damage of any kind, illness, injury, death, or infringement caused by the Licensee's use of the Creative Work. Any use of the Creative Work is done at the Licensee's own risk.
 
 In the event of legal action, in relation to the Creative Work, neither the Licensor, or Licensee may be compensated by, or required to make compensation to, the other.
 

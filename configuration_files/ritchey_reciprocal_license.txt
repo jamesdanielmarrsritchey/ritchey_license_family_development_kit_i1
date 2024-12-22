@@ -1,5 +1,5 @@
 Name: Ritchey Reciprocal License
-Version: 6
+Version: 7
 Content:
 <value>
 Statement - Definitions

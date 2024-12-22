@@ -1,13 +1,13 @@
-Name: Ritchey Personal Use Only License
-Version: 4
+Name: Ritchey AI Training Data License
+Version: 1
 Content:
 <value>
 Statement - Definitions
-List Expansion - Definitions - Personal Use
+List Expansion - Definitions - Artificial Intelligence
 Statement - Offer
 Statement - Acceptance
 Statement - Permissions
-Expansion - Permissions - Personal Use Only
+Expansion - Permissions - AI Training Data
 Statement - Restrictions
 Statement - Impositions
 Statement - Disclaimer

@@ -7,8 +7,8 @@
 //Arguments (Script Friendly):filetype:string:optional,display_errors:bool:optional
 //Content:
 //<value>
-if (function_exists('ritchey_license_family_development_kit_i1_v3') === FALSE){
-function ritchey_license_family_development_kit_i1_v3($filetype = NULL, $display_errors = NULL){
+if (function_exists('ritchey_license_family_development_kit_i1_v4') === FALSE){
+function ritchey_license_family_development_kit_i1_v4($filetype = NULL, $display_errors = NULL){
 	# Check Variables
 	$errors = array();
 	$location = realpath(dirname(__FILE__));
@@ -96,12 +96,12 @@ function ritchey_license_family_development_kit_i1_v3($filetype = NULL, $display
 	if ($display_errors === TRUE){
 		if (@empty($errors) === FALSE){
 			$message = @implode(", ", $errors);
-			if (function_exists('ritchey_license_family_development_kit_i1_v3_format_error') === FALSE){
-				function ritchey_license_family_development_kit_i1_v3_format_error($errno, $errstr){
+			if (function_exists('ritchey_license_family_development_kit_i1_v4_format_error') === FALSE){
+				function ritchey_license_family_development_kit_i1_v4_format_error($errno, $errstr){
 					echo $errstr;
 				}
 			}
-			set_error_handler("ritchey_license_family_development_kit_i1_v3_format_error");
+			set_error_handler("ritchey_license_family_development_kit_i1_v4_format_error");
 			trigger_error($message, E_USER_ERROR);
 		}
 	}

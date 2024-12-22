@@ -1,5 +1,5 @@
 Name: Ritchey Non-Disclosure Permissive License
-Version: 4
+Version: 5
 Content:
 <value>
 Statement - Definitions

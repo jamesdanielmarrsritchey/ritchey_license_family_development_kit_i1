@@ -1,5 +1,5 @@
 Name: Ritchey Verbatim License
-Version: 3
+Version: 4
 Content:
 <value>
 Statement - Definitions

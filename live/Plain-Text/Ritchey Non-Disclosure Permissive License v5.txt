@@ -1,4 +1,4 @@
-Ritchey Verbatim License v3
+Ritchey Non-Disclosure Permissive License v5
 
 Definitions
 
@@ -24,8 +24,6 @@ Permissions
 
 The Licensee is granted royalty-free, perpetual (unless otherwise stated), non-exclusive, non-transferable permission to do anything with the Creative Work, which does not violate any part of this license.
 
-The Creative Work may only be shared verbatim.
-
 Restrictions
 
 - Permissions granted don't include patent rights, with the following exceptions:
@@ -33,6 +31,11 @@ Restrictions
 - Permissions granted don't apply to trademarks, with the following exceptions: 
   + If sharing the Creative Work verbatim otherwise complies with this license, it can be done even with trademarks present.
 - The Creative Work, and any portions of it, must remain solely licensed under this license.
+
+Non-Disclosure Agreement
+
+The Licensee is not permitted to intentionally disclose the identity of the Licensor of the Creative Work, or the source from which Licensee obtained the Creative Work, with following exceptions:
+- If sharing the Creative Work verbatim otherwise complies with this license, it can be done even if the Creative Work contains information which exposes the Licensor, or source.
 
 Impositions
 
@@ -42,7 +45,7 @@ If sharing the Creative Work is permitted by this license, when sharing, the Lic
 
 Disclaimer
 
-Regardless of any other applicable information, the Creative Work is provided as is, without any warranties, guarantees, promises, or representations. The Licensor will not be liable for loss of any kind, damage of any kind, illness, injury, death, or infringement caused by the Licensee's use of the Creative Work. Any use of the Creative Work is done at the Licensee's own risk.
+Regardless of any other applicable information, to the maximum extent permitted by applicable laws, the Creative Work is provided as is, without any warranties, guarantees, promises, or representations. The Licensor will not be liable for loss of any kind, damage of any kind, illness, injury, death, or infringement caused by the Licensee's use of the Creative Work. Any use of the Creative Work is done at the Licensee's own risk.
 
 In the event of legal action, in relation to the Creative Work, neither the Licensor, or Licensee may be compensated by, or required to make compensation to, the other.
 

@@ -1,4 +1,4 @@
-Ritchey Reciprocal License v6
+Ritchey Retention Required Permissive License v7
 
 Definitions
 
@@ -9,6 +9,7 @@ Any definitions provided within this license overrule any external definitions.
 - Licensee means a legal entity receiving the Creative Work under this license, and accepting the license terms.
 - Licensor means the legal entities whom hold Copyright, and related rights, in the Creative Work, and are offering this license, applicable to the Creative Work.
 - Material means material which is not part of the Creative Work, or provided by the Licensor to the Licensee. 
+- Attribution is a statement naming the authors of the Creative Work, included in shared copies of the Creative Work.
 
 Offer
 
@@ -24,8 +25,6 @@ Permissions
 
 The Licensee is granted royalty-free, perpetual (unless otherwise stated), non-exclusive, non-transferable permission to do anything with the Creative Work, which does not violate any part of this license.
 
-The Creative Work may only be included in, or distributed with, Material which is licensed under this license, in addition to any other licenses applied to the Material.
-
 Restrictions
 
 - Permissions granted don't include patent rights, with the following exceptions:
@@ -38,10 +37,13 @@ Impositions
 
 If sharing the Creative Work is permitted by this license, when sharing, the Licensee:
 - Is solely responsible for any consequences, and any withstanding obligations to the recipient. This includes: non-disclaimed warranties, non-disclaimed guarantees, any representations made, any promises made.
+- Must give Attribution, if the authors of the Creative Work are known.
+- Must retain any Copyright notices included with the Creative Work.
+- Must provide a copy of the license text with the Creative Work, in an easily accessible form, in a manner which makes the license text difficult for the recipient not to notice.
 
 Disclaimer
 
-Regardless of any other applicable information, the Creative Work is provided as is, without any warranties, guarantees, promises, or representations. The Licensor will not be liable for loss of any kind, damage of any kind, illness, injury, death, or infringement caused by the Licensee's use of the Creative Work. Any use of the Creative Work is done at the Licensee's own risk.
+Regardless of any other applicable information, to the maximum extent permitted by applicable laws, the Creative Work is provided as is, without any warranties, guarantees, promises, or representations. The Licensor will not be liable for loss of any kind, damage of any kind, illness, injury, death, or infringement caused by the Licensee's use of the Creative Work. Any use of the Creative Work is done at the Licensee's own risk.
 
 In the event of legal action, in relation to the Creative Work, neither the Licensor, or Licensee may be compensated by, or required to make compensation to, the other.
 

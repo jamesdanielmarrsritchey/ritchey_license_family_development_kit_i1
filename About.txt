@@ -1,16 +1,17 @@
 Name: Ritchey License Family Development Kit
 Implementation: 1
-Version: 3
-Long Identifier: Ritchey License Family Development Kit i1 v3
-Short Identifier: RLFDKi1v3
+Version: 4
+Long Identifier: Ritchey License Family Development Kit i1 v4
+Short Identifier: RLFDKi1v4
 Description: A collection of legal statements, and scripts used in the development of select licenses in the Ritchey License Family.
 History:
  - Project started July 13, 2024.
  - Version 1 completed July 14, 2024.
  - Version 2 completed July 14, 2024.
  - Version 3 completed July 15, 2024.
+ - Version 4 completed December 22, 2024.
 Author: James Daniel Marrs Ritchey
-Licensing: This project is hereby licensed under the Ritchey Verbatim License v3 license.
+Licensing: This project is hereby licensed under the Ritchey Verbatim License v4 license.
 Notes:
  - IANAL (I am not a lawyer).
  - WIP (Work In Progress) means something is incomplete. Some releases of this kit may generate licenses with a WIP version code, meaning the license is still a work in progress.

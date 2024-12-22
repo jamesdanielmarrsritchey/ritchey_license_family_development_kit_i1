@@ -1,4 +1,4 @@
-Ritchey Non-Disclosure Permissive License v4
+Ritchey Temporary Permissive License v4
 
 Definitions
 
@@ -32,11 +32,6 @@ Restrictions
   + If sharing the Creative Work verbatim otherwise complies with this license, it can be done even with trademarks present.
 - The Creative Work, and any portions of it, must remain solely licensed under this license.
 
-Non-Disclosure Agreement
-
-The Licensee is not permitted to intentionally disclose the identity of the Licensor of the Creative Work, or the source from which Licensee obtained the Creative Work, with following exceptions:
-- If sharing the Creative Work verbatim otherwise complies with this license, it can be done even if the Creative Work contains information which exposes the Licensor, or source.
-
 Impositions
 
 If sharing the Creative Work is permitted by this license, when sharing, the Licensee:
@@ -45,7 +40,7 @@ If sharing the Creative Work is permitted by this license, when sharing, the Lic
 
 Disclaimer
 
-Regardless of any other applicable information, the Creative Work is provided as is, without any warranties, guarantees, promises, or representations. The Licensor will not be liable for loss of any kind, damage of any kind, illness, injury, death, or infringement caused by the Licensee's use of the Creative Work. Any use of the Creative Work is done at the Licensee's own risk.
+Regardless of any other applicable information, to the maximum extent permitted by applicable laws, the Creative Work is provided as is, without any warranties, guarantees, promises, or representations. The Licensor will not be liable for loss of any kind, damage of any kind, illness, injury, death, or infringement caused by the Licensee's use of the Creative Work. Any use of the Creative Work is done at the Licensee's own risk.
 
 In the event of legal action, in relation to the Creative Work, neither the Licensor, or Licensee may be compensated by, or required to make compensation to, the other.
 
@@ -55,6 +50,8 @@ This license is automatically revoked permanently from the Licensee upon breach 
 - If the Licensee breaches the terms of this license accidentally, the license is revoked, but the Licensee may accept the license again after 30 days, if the Licensee makes all changes needed to come into compliance with the license terms.
 
 If the Licensee has already accepted the license, and later discovers any portion has been deemed unenforceable, by a court of law, in any applicable jurisdiction, the Licensee is not permitted to initiate any new attempts to exercise the license, but is not required to take any action in regards to previously initiated exercises.
+
+If an expiry date is provided along with this license (e.g., "This license expires April 21, 2025."), the license is permanently revoked as of that date, in the Licensee's timezone.
 
 Governance
 

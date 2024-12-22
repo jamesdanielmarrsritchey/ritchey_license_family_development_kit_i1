@@ -1,4 +1,4 @@
-Ritchey Temporary Permissive License v3
+Ritchey AI Training Data License v1
 
 Definitions
 
@@ -9,6 +9,7 @@ Any definitions provided within this license overrule any external definitions.
 - Licensee means a legal entity receiving the Creative Work under this license, and accepting the license terms.
 - Licensor means the legal entities whom hold Copyright, and related rights, in the Creative Work, and are offering this license, applicable to the Creative Work.
 - Material means material which is not part of the Creative Work, or provided by the Licensor to the Licensee. 
+- Artificial Intelligence means a computer program, which processes data to produce results suggesting strong understanding, and creative ability, such as what one might expect from a human.
 
 Offer
 
@@ -24,6 +25,8 @@ Permissions
 
 The Licensee is granted royalty-free, perpetual (unless otherwise stated), non-exclusive, non-transferable permission to do anything with the Creative Work, which does not violate any part of this license.
 
+The Creative Work may only be used, or distributed as part of an Artifical Intelligence.
+
 Restrictions
 
 - Permissions granted don't include patent rights, with the following exceptions:
@@ -36,11 +39,10 @@ Impositions
 
 If sharing the Creative Work is permitted by this license, when sharing, the Licensee:
 - Is solely responsible for any consequences, and any withstanding obligations to the recipient. This includes: non-disclaimed warranties, non-disclaimed guarantees, any representations made, any promises made.
-- Must provide a copy of the license text with the Creative Work, in an easily accessible form, in a manner which makes the license text difficult for the recipient not to notice.
 
 Disclaimer
 
-Regardless of any other applicable information, the Creative Work is provided as is, without any warranties, guarantees, promises, or representations. The Licensor will not be liable for loss of any kind, damage of any kind, illness, injury, death, or infringement caused by the Licensee's use of the Creative Work. Any use of the Creative Work is done at the Licensee's own risk.
+Regardless of any other applicable information, to the maximum extent permitted by applicable laws, the Creative Work is provided as is, without any warranties, guarantees, promises, or representations. The Licensor will not be liable for loss of any kind, damage of any kind, illness, injury, death, or infringement caused by the Licensee's use of the Creative Work. Any use of the Creative Work is done at the Licensee's own risk.
 
 In the event of legal action, in relation to the Creative Work, neither the Licensor, or Licensee may be compensated by, or required to make compensation to, the other.
 
@@ -50,8 +52,6 @@ This license is automatically revoked permanently from the Licensee upon breach 
 - If the Licensee breaches the terms of this license accidentally, the license is revoked, but the Licensee may accept the license again after 30 days, if the Licensee makes all changes needed to come into compliance with the license terms.
 
 If the Licensee has already accepted the license, and later discovers any portion has been deemed unenforceable, by a court of law, in any applicable jurisdiction, the Licensee is not permitted to initiate any new attempts to exercise the license, but is not required to take any action in regards to previously initiated exercises.
-
-If an expiry date is provided along with this license (e.g., "This license expires April 21, 2025."), the license is permanently revoked as of that date, in the Licensee's timezone.
 
 Governance
 
